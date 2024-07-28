@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "mabd117/simpel-project"
+    imagename = "mabd117/web"
     registryCredential = 'docker-hub'
     dockerImage = ''
   }
